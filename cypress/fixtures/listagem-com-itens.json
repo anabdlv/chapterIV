@@ -1,0 +1,17 @@
+[
+    {
+        "firstName": "Ana",
+        "lastName": "Vieira",
+        "adress": "Rua Dois Irmãos, 334",
+        "emailAdress": "ana@ana.com",
+        "radioGender": "f",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Índia",
+        "selectYears": "2001",
+        "selectMonths": "Junho",
+        "pwd": "Abc1234*"
+    }
+]
